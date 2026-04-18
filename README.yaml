@@ -1,4 +1,4 @@
-name: Terraform Transit Gateway Module
+name: terraform-module-azurerm-postgres-database
 #logo: logo/logo.jpg
 badges:
   - name: Latest Release
@@ -18,7 +18,7 @@ copyrights:
 github_repo: <owner/repo>
 
 description: |-
-  <description>
+  Terraform module that provisions an Azure PostgreSQL Flexible Server with Key Vault credential storage and optional Hoop connection output.
 
 # Introduction to the project
 introduction: |-
